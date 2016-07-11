@@ -1,0 +1,27 @@
+//
+//  PrefixHeader.pch
+//  
+//
+//  Created by lanou3g on 16/6/27.
+//
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <AFNetworking.h>
+
+#import "const/RequestUrl.h"
+
+#import "NetWorkRequest.h"
+
+#import "MovieRequest.h"
+
+#import "CinemaRequest.h"
+
+#import "ActivityModel.h"
+
+#import "const/CommString.h"
+
+
+#endif 
