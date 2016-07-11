@@ -4,3 +4,6 @@
 NSLog(@"呵呵呵呵");
 
 I want to commit;
+
+
+//修改了git配置文件
